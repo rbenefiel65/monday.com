@@ -70,7 +70,7 @@
       <button onclick="appendValue('(')">(</button>
       <button onclick="appendValue(')')">)</button>
       <button onclick="appendValue('/')" class="operator">&divide;</button>
-      <button onclick="appendValue('7')">7</button>
+      <button onclick="appendValue('7')">?</button>
       <button onclick="appendValue('8')">8</button>
       <button onclick="appendValue('9')">9</button>
       <button onclick="appendValue('*')" class="operator">&times;</button>
